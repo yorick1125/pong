@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Yoric/Unity/pong/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1

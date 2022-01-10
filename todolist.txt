@@ -1,0 +1,7 @@
+harvard-0 
+to do:
+/ get ball on trigger to work
+- fix bug where ball sticks to the top
+/ get textmeshpro to update
+- get ai paddle to follow ball
+
